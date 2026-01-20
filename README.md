@@ -1,5 +1,3 @@
-# Aadhaar-Enrollment-Dashboard
-
 # Aadhaar Enrollment Analysis Dashboard (Streamlit)
 
 A simple and user-friendly dashboard built using **Python + Streamlit** to analyze Aadhaar enrollment data.  
